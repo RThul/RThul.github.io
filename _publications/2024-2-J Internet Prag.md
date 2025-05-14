@@ -7,5 +7,7 @@ author: [L. Cotgrove, R. Thul, K. Conklin]
 pages: 
 volume: 
 year: 
+doi: "10.1075/ip.00119.cot"
+eprints: "https://nottingham-repository.worktribe.com/output/39715694"
 
 ---

@@ -11,11 +11,9 @@ redirect_from:
 Current PhD students
 ======
 * Tobias Meeks: *AI-based decoding of evoked neural activity to study bilingual language processing* 
-* Moudi Al Maiman: *Learning idioms from stories*
 * Zijia Zhong: *The processing of L2 Chinese collocations by heritage speakers and L2 learners of Chinese*
 * Shiyang Zheng: *Modelling formulaic language: processing and acquisition*
 * Emily Claughton: *Language dynamics in networks*
-* Arwa Alfreah: *Learning polysemous words in the L2*
 * Shatha Alsaif: *Language learning apps*
 
 Current Postdocs
@@ -25,6 +23,7 @@ Joseph Marsh: *Statistical Analysis and Modelling in Psycholinguistics*
 
 Past PhD students
 ======
+* Arwa Alfreah: *The impact of input modality on metonymic word learning: exploring incidental and intentional learning in native and non-native English speakers* (2025)
 * Ghozayel Elotteebi: *The role of input modes in the acquisition of Arabic and English idioms in L1 adults, L1 children and L2 English adults* (2024)
 * Sunil Modhara: *Brain dynamics from mathematical perspectives: a study of neural patterning* (2022)
 * Jake Powell: *Statistical modelling of Ca<sup>2+</sup> oscillations in the presence of single cell heterogeneity* (2022)
