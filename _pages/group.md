@@ -16,10 +16,6 @@ Current PhD students
 * Emily Claughton: *Language dynamics in networks*
 * Shatha Alsaif: *Language learning apps*
 
-Current Postdocs
-======
-Joseph Marsh: *Statistical Analysis and Modelling in Psycholinguistics*
-
 
 Past PhD students
 ======
@@ -41,5 +37,5 @@ Past PhD students
 
 Past Postdocs
 ======
-
-Yi-Ming Lai: *Threshold Networks* (2017 – 2020)
+* Joseph Marsh: *Statistical Analysis and Modelling in Psycholinguistics* (2024 - 2025)
+* Yi-Ming Lai: *Threshold Networks* (2017 – 2020)
