@@ -50,16 +50,22 @@ also https://jayrobwilliams.com  -->
       <span  STYLE="font-variant:small-caps">
       {% for author in post.author %}
         {% if author == site.author.nameshort %}
-          {% assign authors_updated = authors | append: "<b>" | append: author | append: "</b>, "	%}
+          {% assign authors = authors | append: "<b>" | append: author | append: "</b>, "	%}
         {% else %}
-          {% assign authors_updated = authors | append: author | append: ", "%}
+          {% assign authors = authors | append: author | append: ", "%}
         {% endif %}
-        {% assign authors = authors_updated %}
       {% endfor %}
       {{authors}}
       </span>
-      {% if post.type=='journal' %}
-      {% assign reftext = "<em>" |append: post.title | append: "</em>" | append: ", " | append: post.journal | append: ", " | append: post.volume  | append: ", " | append: post.pages | append: " (" | append: post.year | append: ")" %}
+      {% if post.type == 'journal' %}
+      {% assign reftext = "<em>" |append: post.title | append: "</em>" | append: ", " | append: post.journal %}
+      {% if post.volume %}
+      		{% assign reftext = reftext | append: ", " | append: post.volume %}
+      {% endif %}
+      {% if post.pages %}
+      		{% assign reftext = reftext | append: ", " | append: post.pages %}
+      {% endif %}
+      {% assign reftext = reftext  | append: " (" | append: post.year | append: ")"  %}
       {% endif %}
       {% if post.type=='journal in press' %}
       {% assign reftext = "<em>" |append: post.title | append: "</em>" | append: ", " | append: post.journal | append: " (in press)" %}
