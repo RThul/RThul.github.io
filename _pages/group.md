@@ -10,11 +10,13 @@ redirect_from:
 
 Current PhD students
 ======
+* Moudi Al Maiman: *Learning idioms from stories*
 * Tobias Meeks: *AI-based decoding of evoked neural activity to study bilingual language processing* 
 * Zijia Zhong: *The processing of L2 Chinese collocations by heritage speakers and L2 learners of Chinese*
 * Shiyang Zheng: *Modelling formulaic language: processing and acquisition*
 * Emily Claughton: *Language dynamics in networks*
 * Shatha Alsaif: *Language learning apps*
+
 
 
 Past PhD students
