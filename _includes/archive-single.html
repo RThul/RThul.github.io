@@ -70,6 +70,9 @@ also https://jayrobwilliams.com  -->
       {% if post.type=='journal in press' %}
       {% assign reftext = "<em>" |append: post.title | append: "</em>" | append: ", " | append: post.journal | append: " (in press)" %}
       {% endif %}
+      {% if post.type=='journal in submission' %}
+      {% assign reftext = "<em>" |append: post.title | append: "</em>" | append: " (in submission)" %}
+      {% endif %}
       {% if post.type=='incollection' %}
       {% assign editors = '' %}
       {% for editor in post.editors %}
@@ -95,6 +98,10 @@ also https://jayrobwilliams.com  -->
       
       {% if post.OSF %}
        <a href="{{ post.OSF }}"><i class="ai ai-fw ai-osf" aria-hidden="true"></i></a>
+      {% endif %} 
+      
+      {% if post.arxiv %}
+       <a href="{{ post.arxiv }}"><i class="ai ai-arxiv ai-fw" aria-hidden="true"></i></a>
       {% endif %} 
       
 
