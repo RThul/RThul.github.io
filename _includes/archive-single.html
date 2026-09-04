@@ -67,6 +67,9 @@ also https://jayrobwilliams.com  -->
       {% endif %}
       {% assign reftext = reftext  | append: " (" | append: post.year | append: ")"  %}
       {% endif %}
+      {% if post.type=='journal accepted' %}
+      {% assign reftext = "<em>" |append: post.title | append: "</em>" | append: ", " | append: post.journal | append: " (accepted)" %}
+      {% endif %}
       {% if post.type=='journal in press' %}
       {% assign reftext = "<em>" |append: post.title | append: "</em>" | append: ", " | append: post.journal | append: " (in press)" %}
       {% endif %}

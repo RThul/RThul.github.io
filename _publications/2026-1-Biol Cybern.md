@@ -1,6 +1,6 @@
 ---
 collection: publications
-type: 'journal in submission'
+type: 'journal accepted'
 title: 'A rate and timing reduction of the spiking Haken Lighthouse network'
 journal: 'Biological Cybernetics'
 author: [S. Coombes, R. Thul, S. Ruschel, R. Nicks]
