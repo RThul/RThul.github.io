@@ -1,7 +1,7 @@
 ---
 collection: publications
 type: 'journal accepted'
-title: 'A rate and timing reduction of the spiking Haken Lighthouse network'
+title: 'Adaptive conduction delays and phase locking in spiking Haken Lighthouse networks'
 journal: 'Biological Cybernetics'
 author: [S. Coombes, R. Thul, S. Ruschel, R. Nicks]
 pages: 1740 – 1756
