@@ -10,6 +10,8 @@ redirect_from:
 
 Current PhD students
 ======
+* Yidan Hu. *Relationship between vocabulary knowledge and reading fluency in bilingual children*
+* Amy Barker: *CHISEL - Clear Health Information Supporting Empowered Lives*
 * Aulia Arum: *Linking eye tracking measures and response times in L2 speakers*
 * Moudi Almaiman: *Modelling learning idioms from stories*
 * Tobias Meeks: *AI-based decoding of evoked neural activity to study bilingual language processing* 
