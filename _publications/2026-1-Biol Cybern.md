@@ -9,5 +9,6 @@ volume: 120
 year: 2026
 arxiv: "http://arxiv.org/abs/2606.21508"
 doi: "10.1007/s00422-026-01064-2"
+eprints: "https://nottingham-repository.worktribe.com/output/70594598"
 
 ---
